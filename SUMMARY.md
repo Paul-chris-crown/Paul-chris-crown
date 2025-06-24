@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🪶 Executive Summary](README.md)
+* [Problem Statement](problem-statement.md)
+* [Vision & Mission](vision-and-mission.md)
+* [⚡ Core Features](core-features/README.md)
+  * [🏘️ Real-World Asset Tokenization](core-features/real-world-asset-tokenization.md)
+  * [Marketplace Functionality](core-features/marketplace-functionality.md)
+  * [On-Chain Legal & Compliance Layer](core-features/on-chain-legal-and-compliance-layer.md)
+  * [🪙 Native Utility Token (TBA)](core-features/native-utility-token-tba.md)
+* [Why Plume?](why-plume.md)
+* [Use Cases](use-cases.md)
+* [Roadmap](roadmap.md)
+* [Team & Partners](team-and-partners.md)
+* [💰 Tokenomics](tokenomics.md)
+* [Official Links](official-links.md)
